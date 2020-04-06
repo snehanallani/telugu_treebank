@@ -4,4 +4,4 @@ IIIT Telugu treebank consisting of around 1600 sentences is made available in IC
 
 The intra-chunk dependencies are annotated using the treebank expander made available at https://github.com/ltrc/Shift-Reduce-Chunk-Expander based on Context Free Grammar (CFG) rules for Telugu. The grammar files for Telugu using both BIS and AnnCorra part-of-speech schemas are made available.
 
-The intra-chunk annotated treebank is made available in both SSF and CoNLL-X format.
+The intra-chunk annotated treebank is made available in both SSF and CoNLL-X format in WX notation.
